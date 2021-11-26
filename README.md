@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample Rails application from Docker for Rail Developers (PragProg).
+It was generaed using Docker wihout Ruby insalled on the local machine.
 
-Things you may want to cover:
+We're using the app to discover the wonder world of Rails with Docker.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This differs from the book in that it uses the built-in test framework, as opposed to Rspec.
