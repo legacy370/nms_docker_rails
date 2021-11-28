@@ -1,0 +1,3 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=Ken229Asp%
+POSTGRES_DB=nmsapp_development

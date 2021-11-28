@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ @import "w3.scss";
+ table {
+   @extend .w3-table;
+ }
