@@ -13,5 +13,5 @@ ENV BUNDLE_PATH /gems
 RUN bundle install
 
 COPY . /usr/src/app
-
+ENTRYPOINT ["./docker-entrypoint.sh"]
 CMD ["bin/rails", "s", "-b", "0.0.0.0"]
